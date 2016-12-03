@@ -1,9 +1,9 @@
 [
   {
-    "remote": "omnirom",
-    "repository": "android_kernel_huawei_angler",
+    "remote": "github",
+    "repository": "Flash-Kernel/angler",
     "target_path": "kernel/huawei/angler",
-    "revision": "android-7.1"
+    "revision": "personal-7.0"
   },
   {
     "remote": "omnirom",
